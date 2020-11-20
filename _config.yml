@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "잡월드"
+title                    : "ssryu의 개발 새발"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "ssryu"
-description              : "An amazing website."
+description              : "개발 새바 안드로이드와 아이폰으 공부하는 공간입니다."
 url                      : "https://sky0426.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "ssryu"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : ""
   location         : "seoul"
   email            : "tmdtjrdl@gmail.com"
   links:
