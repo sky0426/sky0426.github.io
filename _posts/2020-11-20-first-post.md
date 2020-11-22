@@ -7,8 +7,8 @@ categories: 기타
 바보
 
 ```java
-if (yourName.equals("정우현") {
-  printf("바보입니다.");
+if (yourName.equals("ㅁㅁㅁ") {
+  System.out.println("바보입니다.");
 }
 ```
 
