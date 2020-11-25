@@ -22,16 +22,27 @@ mysql8.0을 만들었더니 기본으로 default.mysql8.0이 만들어져 있다
 
 ***
 여기는 utf8로 변경
+
 character_set_client
+
 character_set_connection
+
 character_set_database
+
 character_set_filesystem
+
 character_set_results
+
 character_set_server
+
 ***
+
 여기는 utf8_general_ci로 변경해준다.
+
 collation_connection
+
 collation_server
+
 ***
 
 DBeaver 설치 후 연결 시도
