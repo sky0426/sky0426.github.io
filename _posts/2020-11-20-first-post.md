@@ -1,7 +1,7 @@
 ---
 title: "안녕 바보"
 date: 2020-11-20 15:07:00 +0900
-categories: 기타
+categories: etc
 ---
 
 바보
