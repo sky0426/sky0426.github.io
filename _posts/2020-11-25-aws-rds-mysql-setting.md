@@ -1,7 +1,7 @@
 ---
 title: "AWS RDS mysql 세팅하기"
 date: 2020-11-25 20:16:00 +0900
-categories: 서버사이드
+categories: serverside
 tags: ["활자중독", "mysql", "aws", "rds"]
 ---
 
