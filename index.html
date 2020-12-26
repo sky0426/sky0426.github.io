@@ -2,11 +2,18 @@
 layout: home
 author_profile: true
 ---
-<!-- Begin Menu -->
-<ul class="navbar-nav ml-auto">
-                
-    <li class="nav-item">
-      <a class="nav-link" href="{{ site.baseurl }}/index.html">Blog</a>
-    </li>
+<header class="site-category">
+    <ul>
+      
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "category" %}
+            <li><a class="category-link {% if page.url == node.url %} active{% endif %}"
+            href="{{ site.baseurl }}{{ node.url }}">{{ node.title }}</a></li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+      
   </ul>
-<!-- End Menu -->  
+  </header>
