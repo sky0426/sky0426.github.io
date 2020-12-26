@@ -5,5 +5,7 @@ main:
     url: /serverside/
   - title: "etc"
     url: /etc/
+  - title: "Category"
+    url: /categories/
   - title: "year"
     url: /year-archive/
