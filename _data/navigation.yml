@@ -1,0 +1,7 @@
+main:
+  - title: "book"
+    url: /booke/
+  - title: "serverside"
+    url: /serverside/
+  - title: "etc"
+    url: /etc/
