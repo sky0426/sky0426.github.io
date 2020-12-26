@@ -5,6 +5,8 @@ main:
     url: /serverside/
   - title: "etc"
     url: /etc/
+  - title: "tag"
+    url: /tags/
   - title: "Category"
     url: /categories/
   - title: "Archive"
