@@ -7,5 +7,5 @@ main:
     url: /etc/
   - title: "Category"
     url: /categories/
-  - title: "year"
+  - title: "Archive"
     url: /year-archive/
