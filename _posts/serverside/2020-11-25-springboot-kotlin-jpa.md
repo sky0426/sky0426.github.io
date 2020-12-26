@@ -1,7 +1,8 @@
 ---
+layout: post
 title: "Spring boot kotlin jpa"
 date: 2020-11-25 22:16:00 +0900
-categories: serverside
+categories: ["serverside"]
 tags: ["springboot", "spring", "kotlin", "jpa"]
 ---
 

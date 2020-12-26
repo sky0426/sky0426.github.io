@@ -1,7 +1,8 @@
 ---
+layout: post
 title: "그림책으로 읽는 감정 수업"
 date: 2020-11-21 13:40:00 +0900
-categories: book
+categories: ["book"]
 tags: ["감정수업", "독서", "그림책"]
 ---
 

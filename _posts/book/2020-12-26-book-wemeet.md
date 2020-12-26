@@ -1,7 +1,8 @@
 ---
+layout: post
 title: "우리는 언젠가 만난다."
 date: 2020-12-26 13:40:00 +0900
-categories: book
+categories: ["book"]
 tags: ["우리는 언젠가 만난다", "독서", "채사장"]
 ---
 
