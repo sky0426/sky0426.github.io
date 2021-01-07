@@ -15,8 +15,12 @@ if (yourName.equals("ㅁㅁㅁ") {
 
 [에헴](https://glowmee.page.link/sample)
 
-[어허이](https://glowmee.page.link/?link=https://www.glowpick.com?code%3d28%26type%3daaaa&apn=com.glowdayz.glowmee.debug)
+[리뷰쓰기](https://glowmee.page.link/?link=https://www.glowpick.com?code%3daa%26type%3d28&apn=com.glowdayz.glowmee.debug)
 
-[어허이1](https://glowmee.page.link/?link=https://www.glowpick.com?code=11&type=aaaa&apn=com.glowdayz.glowmee.debug)
+[문의하기](https://glowmee.page.link/?link=https://www.glowpick.com?code%3dtrue%26type%3d41&apn=com.glowdayz.glowmee.debug)
+
+[리뷰](https://glowmee.page.link/?link=https://www.glowpick.com?code%3d28%26type%3d25&apn=com.glowdayz.glowmee.debug)
+
+[이벤트](https://glowmee.page.link/?link=https://www.glowpick.com?code%3d28%26type%3d27&apn=com.glowdayz.glowmee.debug)
 
 [glow](https://glowpick.com?code%3d28%26type%3daaaa)
