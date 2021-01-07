@@ -14,3 +14,8 @@ if (yourName.equals("ㅁㅁㅁ") {
 ```
 
 [에헴](https://glowmee.page.link/sample)
+
+[어허이] (https://glowmee.page.link/?link=https://www.glowpick.com?code%3d28%26type%3daaaa&apn=com.glowdayz.glowmee.debug)
+
+[어허이1] (https://glowmee.page.link/?link=https://www.glowpick.com?code=11&type=aaaa&apn=com.glowdayz.glowmee.debug)
+
