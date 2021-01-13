@@ -24,3 +24,5 @@ if (yourName.equals("ㅁㅁㅁ") {
 [이벤트](https://glowmee.page.link/?link=https://www.glowpick.com?code%3d28%26type%3d27&apn=com.glowdayz.glowmee.debug)
 
 [glow](https://glowpick.com?code%3d28%26type%3daaaa)
+
+[heart](https://glowmee.page.link/?link=https://www.glowpick.com/deep-link?type%3D17%26code%3D7582&apn=com.glowdayz.glowmee.debug)
