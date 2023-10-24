@@ -1,7 +1,7 @@
 # Site
 name: "ssryu"
 title: "쓱쓱써보기"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+description: "졸려"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -20,8 +20,8 @@ authors:
     display_name: "승석"
     avatar: 'assets/images/avatar-sal.png'
     email: "tmdtjrdl@gmail.com"
-    web: ""
-    twitter: ""
+    web: "https://blog.naver.com/fbtmdtjr"
+    # twitter: ""
     description: ""
 
 # Plugins
