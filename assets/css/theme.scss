@@ -15,7 +15,9 @@ $enable-rounded: false;
 @import 'bootstrap/bootstrap';
 @import 'stars';
 
-
+#main-content {
+    min-height: 100%;
+}
 // general
 body, input, button, select, optgroup, textarea {   
     font-family:Sen;
@@ -23,7 +25,6 @@ body, input, button, select, optgroup, textarea {
 body {
     line-height:1.7;
     background: #f4f4f4;
-    min-height: 100%;
 }
 a {
     color: darken($primary, 24%);
